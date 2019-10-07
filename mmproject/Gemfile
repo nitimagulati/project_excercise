@@ -1,0 +1,17 @@
+source "http://rubygems.org"
+
+gem "ci_reporter_rspec","1.0.0"
+gem "rake","10.4.2"
+gem "selenium-webdriver", "3.11.0"
+gem "watir-webdriver", "0.8.0"
+gem "webdriver-user-agent", "7.4"
+gem "socksify", "1.7.1"
+gem "json", "2.1.0"
+gem "io-console", "0.4.6"
+gem "github_api", "0.18.2"
+gem "childprocess", "0.9.0"
+gem 'rspec'
+gem 'cucumber'
+gem 'watir'
+gem 'monetize'
+gem 'money'

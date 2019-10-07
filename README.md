@@ -1,4 +1,3 @@
-# project_excercise
 # project
 Problem :
 
@@ -68,3 +67,5 @@ Run command
 cucumber /project_path/mmproject/features/mm_values_page_validation.feature --color -r features --format html > output/outputresult.html
 
 Screenshot of mock report generated via test script is as attached
+Would like to validate test cases against the live url once it is available, and fix errors if any.
+
